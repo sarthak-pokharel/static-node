@@ -1,0 +1,17 @@
+html {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+body {
+    min-width: 100%;
+    min-height: 100%;
+    margin: 0;
+    background: #f1f2f3;
+    font-family: sans, serif;
+}
+
+#spinnerImage {
+    width: 16px;
+    height: 16px;
+}

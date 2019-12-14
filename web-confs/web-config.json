@@ -1,0 +1,4 @@
+{
+    "index-file": ["index.html"],
+    "document-root": "./app-root"
+}

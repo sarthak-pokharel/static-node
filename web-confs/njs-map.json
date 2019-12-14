@@ -1,0 +1,3 @@
+{
+    "/reverse/*": "./njs/reverse.njs"
+}
